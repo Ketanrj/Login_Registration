@@ -8,6 +8,7 @@ $ npm start
 # Or run with Nodemon
 $ npm run project
 
-# Visit http://localhost:5000
+# Visit 
+http://localhost:5000
 MongoDB
-Open "config/keys.js" and add your MongoDB URI, local or Atlas
+env "config/keys.js" and add your MongoDB URI, local or Atlas
